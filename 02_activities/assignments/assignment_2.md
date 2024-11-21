@@ -44,16 +44,7 @@ Evaluation:
 - Relevance: Pie charts are unsuitable for comparing categories across groups; a bar chart would be more effective.
 - Aesthetics: The use of too many colors and a lack of clear legend creates visual confusion.
   
-Improvements:
 
-Change the Chart Type: Replace the pie chart with a grouped bar chart or stacked bar chart, which are more suitable for comparing categories across groups.
-Consolidate Categories: Group smaller or similar flavors into an “Other” category to reduce clutter.
-Add Labels: Display percentages or values directly on the chart for better comprehension.
-Simplify Colors: Use a consistent, limited color palette with clear patterns for subcategories.
-Highlight Key Insights: Include a title or annotations emphasizing the main takeaway (e.g., “Chocolate dominates preferences across all age groups”).
-Provide Context: Add a data source, sample size, and collection method to improve credibility and interpretation.
-Why it’s bad:
-This visualization violates Stephen Few’s best practices by using an inappropriate chart type and overcomplicating the design. Pie charts should only show simple part-to-whole relationships, not complex comparisons. Tufte’s principles are ignored, as excessive visual elements obscure the data rather than reveal it.
 
     - How could this data visualization have been improved?  
    
